@@ -1,2 +1,9 @@
 # graphql-demo
-A demo of some of the features of GraphQL.
+
+Run locally:
+
+`npm install`
+
+`node server.js`
+
+Then navigate to [http://localhost:4000/graphiql](http://localhost:4000/graphiql)
